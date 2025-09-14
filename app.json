@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "taskmatee",
-    "slug": "taskmatee",
+    "name": "taskmate",
+    "slug": "taskmate",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "taskmatee",
+    "scheme": "taskmate",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "splash": {
